@@ -1,0 +1,15 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+
+
+# other doc
+.claude/
+PPT/
+assets/
+讲义/
+资料/
+必读：课程结构和能力目标.txt
